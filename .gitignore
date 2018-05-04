@@ -1,0 +1,11 @@
+# vim
+**/*.swp
+
+# intellij
+.idea/
+
+# build
+**/*.pyc
+.coverage
+.pytest_cache/
+
